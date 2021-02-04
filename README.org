@@ -1,0 +1,29 @@
+#+TITLE: Wallpapers
+#+AUTHOR: Korey Moffett (KaosFang)
+
+* Summary
+
+This repo is a collection of images that I have come across and thought would make good desktop/mobile wallpapers
+
+
+** Sections
+
++ Dracula (Not the vampire, the color scheme)
++ GNU + Linux (Will have Tux or the GNU in the wallpaper)
++ Gruv (Gruvbox wallpapers)
++ Nature (Trees and stuff that we see outside... What is outside again?)
++ Nord (Nord color scheme wallpapers)
++ Other (Just random wallpapers that don't into a category)
++ Programming (Will have 1's and 0's or a programming language)
++ Space (The outer realm that we have still yet to explore/space like things)
+
+
+
+
+I do not own any of these images
+
+
+*** I do my best to organize them
+
+I will keep these updated as I find new wallpapers.
+Hope you can find something you like :)
