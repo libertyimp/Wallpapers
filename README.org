@@ -12,7 +12,7 @@ This repo is a collection of images that I have come across and thought would ma
 + GNU + Linux (Will have Tux or the GNU in the wallpaper)
 + Gruv (Gruvbox wallpapers)
 + Nature (Trees and stuff that we see outside... What is outside again?)
-+ Linux Distro (Will contain one of the many linux distros logos)
++ Linux Distro (Will contain one of the many linux distros logoS)
 + Nord (Nord color scheme wallpapers)
 + Other (Just random wallpapers that don't into a category)
 + Programming (Will have 1's and 0's or a programming language)
